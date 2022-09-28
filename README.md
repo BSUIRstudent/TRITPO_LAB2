@@ -2,7 +2,7 @@
 # Содержание 
 [1 Введение](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#1-введение)  
 [2 Требования пользователя](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#2-требования-пользователя)  
-[2.1 Программные интерфейсы](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#2.1-программные-интерфейсы)  
+[2.1 Программные интерфейсы](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#21-программные-интерфейсы)  
 [2.2 Интерфейс пользователя]  
 [2.3 Характеристики пользователя]  
 [2.4 Предложения и зависимости]  
