@@ -1,6 +1,6 @@
 # Требование к проекту 
 # Содержание 
-[1 Введение]([https://github.com/BSUIRstudent/TRITPO_LAB2//1-введение](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#1-введение)
+[1 Введение](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#1-введение)  
 [2 Требования пользователя]  
 [2.1 Программные интерфейсы]  
 [2.2 Интерфейс пользователя]  
