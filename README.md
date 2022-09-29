@@ -1,4 +1,4 @@
-# Требование к проекту 
+# Требования к проекту 
 # Содержание 
 [1 Введение](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#1-введение)  
 [2 Требования пользователя](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/README.md#2-требования-пользователя)  
