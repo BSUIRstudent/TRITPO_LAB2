@@ -18,12 +18,20 @@
 Продукт должен иметь графический интерфейс. Все данные (список товаров на складе, список водителей) должны храниться в файле.  
 ## 2.2 Интерфейс пользователя  
 ## Окно пользователя  
-При запуске приложение должно отображаться вкладка "Товары"  
-![](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/mockups/%D0%BC%D0%BE%D0%BA%D0%B0%D0%BF1.png)  
-При нажатии на вкладку "Информация" отобразится  информация о покупателе    
-![](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/mockups/%D0%BC%D0%BE%D0%BA%D0%B0%D0%BF2.png)  
-При нажатии на вкладку "Заказы" отобразится заказ покупателя    
-![](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/mockups/%D0%BC%D0%BE%D0%BA%D0%B0%D0%BF3.png)  
+Отображение списка товаров на складе:
+
+![](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/mockups/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2%20%D0%BD%D0%B0%20%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%B5.png)  
+Отображение списка водителей:
+
+![](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/mockups/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.png) 
+
+Добавление товара на склад:
+
+![](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/mockups/%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0.png)
+
+Добавление водителя:
+
+![](https://github.com/BSUIRstudent/TRITPO_LAB2/blob/main/mockups/%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8F.png)
 ## 2.3 Характеристики пользователей  
 Пользователь приложения – управляющий складом. Это люди всех возрастов имеющий хороший уровень знаний в эксплуатации компьютера. Которые могут собрать самостоятельно компьютер и разбираются в комплектующих и переферийных устройствах ПК.
 ## 2.4 Предположения и зависимости 
